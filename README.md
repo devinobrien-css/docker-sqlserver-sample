@@ -38,13 +38,13 @@ To get started with `docker-sqlserver-sample`, follow these steps:
         bash build.sh
         ```
 
-    2. Connect to the PostgreSQL database using your preferred client (e.g., `psql`, `pgAdmin`, etc.):
+    2. Connect to the SQL Server database using your preferred client (e.g., `dbeaver`, `SSMS`, etc.):
         - Host: `localhost`
         - Port: `5432`
         - Username: `sqlserver`
         - Password: ********
 
-        You can now start using PostgreSQL in your development environment!
+        You can now start using SQL in your development environment!
 
     3. (optional) A destroy script has been included for your convenience
 
