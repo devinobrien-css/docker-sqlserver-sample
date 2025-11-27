@@ -81,7 +81,7 @@ To get started with `docker-sqlserver-sample`, follow these steps:
         - Host: `localhost`
         - Port: `1433`
         - Username: `sqlserver`
-        - Password: ********
+        - Password: `YourStrong@Passw0rd`
 
         You can now start using SQL in your development environment!
 
